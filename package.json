@@ -2,14 +2,12 @@
   "name": "solutions",
   "version": "0.0.1",
   "description": "A collaborative list of great resources about IT solutions. ",
+  "homepage": "https://github.com/phodal/solutions#readme",
+  "author": "Phodal",
+  "files": [
+    "dist"
+  ],
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phodal/solutions.git"
-  },
   "keywords": [
     "Solution",
     "awesome",
@@ -17,10 +15,41 @@
     "os",
     "phodal"
   ],
-  "author": "Phodal",
+  "scripts": {
+    "test": "gulp",
+    "prepublish": "gulp prepublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/solutions.git"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/phodal/solutions/issues"
   },
-  "homepage": "https://github.com/phodal/solutions#readme"
+  "devDependencies": {
+    "eslint": "^2.1.0",
+    "eslint-config-xo-space": "^0.13.0",
+    "babel-eslint": "^4.1.8",
+    "eslint-plugin-babel": "^3.1.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0",
+    "gulp-coveralls": "^0.1.0",
+    "gulp-babel": "^5.1.0",
+    "del": "^2.0.2",
+    "babel-core": "^5.5.0",
+    "isparta": "^3.0.3"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  }
 }
