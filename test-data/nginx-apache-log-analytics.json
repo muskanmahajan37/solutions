@@ -1,0 +1,18 @@
+{
+  "title": "Nginx/Apache日志分析",
+  "subtitle": "Hadoop + amMap + ElasticSearch",
+  "type": "server",
+  "stacks": [
+    "Hadoop",
+    "amMap",
+    "ElasticSearch"
+  ],
+  "language": [
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+  "arch": "'Nginx log' -> 'Hadoop' -> 'ElasticSearch' -> 'amMap'",
+  "introduction": "用Hadoop分析、解析数据，将数据存储到ElasticSearch中，通过API与amMap再显示到地图上。",
+  "description": "用Hadoop分析、解析数据，将数据存储到ElasticSearch中，通过API与amMap再显示到地图上。"
+}
