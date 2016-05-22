@@ -1,20 +1,37 @@
-{
+[{
   "title": "Python Flask Web应用",
   "subtitle": "Python Flask Web应用",
   "type": [
     "server"
   ],
   "stacks": [
-    "Python",
     "Flask",
     "Jinja2",
     "SQLAlchemy"
   ],
   "language": [
-    "ES6",
+    "Python",
     "JavaScript"
   ],
   "arch": "",
   "introduction": "Jinja2作为模板引擎，SQLAlchemy作为ORM，Flask就可以起飞了~~。",
   "description": "Jinja2作为模板引擎，SQLAlchemy作为ORM，Flask就可以起飞了~~。"
-}
+},{
+  "title": "Python Web应用",
+  "subtitle": "Python Flask Web应用",
+  "type": [
+    "server"
+  ],
+  "stacks": [
+    "Django",
+    "Django JWT",
+    "Django DRF"
+  ],
+  "language": [
+    "Python",
+    "JavaScript"
+  ],
+  "arch": "",
+  "introduction": "单页面应用后台。",
+  "description": "单页面应用后台。"
+}]
