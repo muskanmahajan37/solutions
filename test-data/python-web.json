@@ -1,0 +1,20 @@
+{
+  "title": "Python Flask Web应用",
+  "subtitle": "Python Flask Web应用",
+  "type": [
+    "server"
+  ],
+  "stacks": [
+    "Python",
+    "Flask",
+    "Jinja2",
+    "SQLAlchemy"
+  ],
+  "language": [
+    "ES6",
+    "JavaScript"
+  ],
+  "arch": "",
+  "introduction": "Jinja2作为模板引擎，SQLAlchemy作为ORM，Flask就可以起飞了~~。",
+  "description": "Jinja2作为模板引擎，SQLAlchemy作为ORM，Flask就可以起飞了~~。"
+}

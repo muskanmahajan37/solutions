@@ -1,7 +1,10 @@
 {
   "title": "Nginx/Apache日志分析",
   "subtitle": "Hadoop + amMap + ElasticSearch",
-  "type": "server",
+  "type": [
+    "server",
+    "big data"
+  ],
   "stacks": [
     "Hadoop",
     "amMap",

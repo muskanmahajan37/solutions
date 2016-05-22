@@ -1,0 +1,22 @@
+{
+  "title": "Node.js React Web应用",
+  "subtitle": "Node.js React Web应用",
+  "type": [
+    "server",
+    "frontend",
+    "mobile"
+  ],
+  "stacks": [
+    "React",
+    "WebPack",
+    "Babel",
+    "Express"
+  ],
+  "language": [
+    "ES6",
+    "JavaScript"
+  ],
+  "arch": "",
+  "introduction": "Babel用于转换React中的ES6的语法，再中WebPack打包js。",
+  "description": "Babel用于转换React中的ES6的语法，再中WebPack打包js。"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "移动混合应用",
+  "subtitle": "Hadoop + amMap + ElasticSearch",
+  "type": [
+    "mobile",
+    "frontend"
+  ],
+  "stacks": [
+    "Ionic",
+    "Cordova",
+    "ngCordova"
+  ],
+  "language": [
+    "JavaScript",
+    "Java",
+    "Objective-C/Swift",
+    "C#"
+  ],
+  "arch": "",
+  "introduction": "Ionic封装了Cordova和Angular，并辅助以ngCordova来封装一些Cordova插件。",
+  "description": "Ionic封装了Cordova和Angular，并辅助以ngCordova来封装一些Cordova插件。"
+}
