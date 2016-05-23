@@ -51,5 +51,8 @@
     "env": {
       "mocha": true
     }
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0"
   }
 }
