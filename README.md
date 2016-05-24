@@ -1,5 +1,9 @@
 # Solutions
 
+[![Build Status](https://travis-ci.org/phodal/solutions.svg?branch=master)](https://travis-ci.org/phodal/solutions)
+[![Coverage Status](https://coveralls.io/repos/github/phodal/solutions/badge.svg?branch=master)](https://coveralls.io/github/phodal/solutions?branch=master)
+
+
 A static API builder on GitHub
 
 
