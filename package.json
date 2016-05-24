@@ -27,6 +27,9 @@
   "bugs": {
     "url": "https://github.com/phodal/solutions/issues"
   },
+  "bin": {
+    "solutions": "bin/solutions.js"
+  },
   "devDependencies": {
     "eslint": "^2.1.0",
     "eslint-config-xo-space": "^0.13.0",
