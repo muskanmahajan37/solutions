@@ -53,10 +53,8 @@
     }
   },
   "dependencies": {
-    "fs-extra": "^0.30.0",
     "lodash": "^4.13.0",
     "rx": "^4.1.0",
-    "rx-node": "^1.0.2",
-    "through2": "^2.0.1"
+    "rx-node": "^1.0.2"
   }
 }
