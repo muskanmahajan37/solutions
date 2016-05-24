@@ -1,4 +1,4 @@
-import assert from "assert";
+import assert from 'assert';
 
 describe('solutions', function () {
   it('should have unit test!', function () {
