@@ -8,7 +8,7 @@ program
   .option('-p, --path', 'set JSON files path')
   .option('-s, --size', 'set each JSON file size')
   .parse(process.argv);
-gi
+
 if (program.path && program.size) {
   solutions.generate(program.path, program.size);
 }
