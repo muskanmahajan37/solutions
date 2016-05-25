@@ -6,6 +6,12 @@
 
 A static API builder on GitHub
 
+Run:
+
+```bash
+solutions -p data -s 10
+```
+
 
 inspired & copy by [https://github.com/trxcllnt/rxjs-fs](https://github.com/trxcllnt/rxjs-fs) and [https://github.com/michaelbpaulson/rx-data](https://github.com/michaelbpaulson/rx-data)
 

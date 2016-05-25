@@ -1,11 +1,12 @@
 {
   "name": "solutions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A collaborative list of great resources about IT solutions. ",
   "homepage": "https://github.com/phodal/solutions#readme",
   "author": "Phodal",
   "files": [
-    "dist"
+    "dist",
+    "bin"
   ],
   "main": "index.js",
   "keywords": [
