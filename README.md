@@ -9,7 +9,7 @@ A static API builder on GitHub
 Run:
 
 ```bash
-solutions -p data -s 10
+solutions -i test-data -o tmp -s 10
 ```
 
 
