@@ -6,7 +6,27 @@
 
 A static API builder on GitHub
 
-Run:
+Install:
+
+```bash
+npm install solutions -g
+```
+
+Usage
+
+```bash
+  Usage: solutions [options]
+
+  Options:
+
+    -h, --help             output usage information
+    -V, --version          output the version number
+    -i, --input <string>   set input JSON files path
+    -o, --output <string>  set output JSON files path
+    -s, --size <n>         set each JSON file size
+```    
+
+Example:
 
 ```bash
 solutions -i test-data -o tmp -s 10
