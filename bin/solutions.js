@@ -10,6 +10,6 @@ program
   .parse(process.argv);
 
 if (program.path && program.size) {
-  console.log(program.path, program.size)
+  console.log(program.path, program.size);
   solutions.generate(program.path, program.size);
 }
